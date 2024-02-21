@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About me
 subtitle: Nothin' special, really.
 author: Davis Vance
 ---
